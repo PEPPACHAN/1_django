@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="893cf246-133f-4108-829e-252ee5d4d65a" name="Changes" comment="" />
+    <list default="true" id="893cf246-133f-4108-829e-252ee5d4d65a" name="Changes" comment="1_django">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +33,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "vcs.Subversion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,6 +72,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="893cf246-133f-4108-829e-252ee5d4d65a" name="Changes" comment="" />
@@ -81,11 +86,23 @@
       <workItem from="1683098834796" duration="8652000" />
       <workItem from="1683790510525" duration="6219000" />
       <workItem from="1683871760188" duration="11817000" />
-      <workItem from="1684920489925" duration="3731000" />
+      <workItem from="1684920489925" duration="4461000" />
     </task>
+    <task id="LOCAL-00001" summary="1_django">
+      <created>1685005413677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685005413678</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1_django" />
+    <option name="LAST_COMMIT_MESSAGE" value="1_django" />
   </component>
 </project>
