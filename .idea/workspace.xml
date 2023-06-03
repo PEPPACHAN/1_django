@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="893cf246-133f-4108-829e-252ee5d4d65a" name="Changes" comment="1_django">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainPage/templates/MainPage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MainPage/templates/MainPage/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,7 @@
       <workItem from="1683098834796" duration="8652000" />
       <workItem from="1683790510525" duration="6219000" />
       <workItem from="1683871760188" duration="11817000" />
-      <workItem from="1684920489925" duration="6246000" />
+      <workItem from="1684920489925" duration="7468000" />
     </task>
     <task id="LOCAL-00001" summary="1_django">
       <created>1685005413677</created>
@@ -123,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685006954007</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1_django">
+      <created>1685795439478</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685795439478</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1_django">
+      <created>1685795444886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685795444886</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
