@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="893cf246-133f-4108-829e-252ee5d4d65a" name="Changes" comment="1_django" />
+    <list default="true" id="893cf246-133f-4108-829e-252ee5d4d65a" name="Changes" comment="1_django">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainPage/templates/MainPage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MainPage/templates/MainPage/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +100,7 @@
       <workItem from="1683098834796" duration="8652000" />
       <workItem from="1683790510525" duration="6219000" />
       <workItem from="1683871760188" duration="11817000" />
-      <workItem from="1684920489925" duration="4838000" />
+      <workItem from="1684920489925" duration="6246000" />
     </task>
     <task id="LOCAL-00001" summary="1_django">
       <created>1685005413677</created>
@@ -113,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685005814562</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1_django">
+      <created>1685006954007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685006954007</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
